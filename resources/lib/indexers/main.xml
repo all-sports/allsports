@@ -1,0 +1,73 @@
+#######################################################################################################################################
+<poster>AllSports</poster>
+<fanart></fanart>
+#######################################################################################################################################
+
+
+<dir>
+<name>[COLOR orange]HUDDLE UP SPORTS[/COLOR]</name>
+<link>HuddleDirectory</link>
+<thumbnail>http://s20.postimg.org/uc9x9wpgt/huddle.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange]Entertainment[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Directories/Entertainment.xml</link>
+<thumbnail>http://s5.postimg.org/chnu6t0xz/entertainment0802131322.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange]World News[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Sections/News/World%20News.xml</link>
+<thumbnail>http://s5.postimg.org/yuvktm1vr/worldnews1.jpg</thumbnail>
+</dir>
+
+
+
+<dir>
+<name>[COLOR orange]Filmon TV[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Sections/Filmon.xml</link>
+<thumbnail>http://s5.postimg.org/rdqys51qf/Film_On_TV_Featured.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange]Live Sports[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Directories/Live%20Sports.xml</link>
+<thumbnail>http://s5.postimg.org/us4juj7rb/EA_Sports_Ignite.jpg</thumbnail>
+</dir>
+
+dir>
+<name>[COLOR orange]HD Sports[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Sections/HD%20Sports.xml</link>
+<thumbnail>http://s5.postimg.org/4vavhx43r/Online_Sports_isn_t_it_Fun.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange]USA/Canada Sports[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Sections/USA.Canada%20Sports.xml</link>
+<thumbnail>http://s5.postimg.org/cmrlgh893/Capture2_600x300.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange]UK Sports[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Sections/UK%20Sports.xml</link>
+<thumbnail>http://s5.postimg.org/vcjkx80zr/Screen_Shot_2015_12_19_at_11_24_06_AM.png</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange]All Sports[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Sections/All%20Sports.xml</link>
+<thumbnail>http://s5.postimg.org/87ovx0kqv/all_sports.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange]Acestream Sports[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Sections/Acestream%20Sports.xml</link>
+<thumbnail>http://s5.postimg.org/bbju80cnb/429986.jpg</thumbnail>
+</dir>
+
+<dir>
+<name>[COLOR orange]Sports Replays[/COLOR]</name>
+<link>http://shanghai.watchkodi.com/Directories/Sports%20Replays.xml</link>
+<thumbnail>http://s5.postimg.org/i9nydyarr/Screen_Shot_2015_12_19_at_11_29_47_AM.png</thumbnail>
+</dir>
